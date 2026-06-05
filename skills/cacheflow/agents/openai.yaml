@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cacheflow"
+  short_description: "Assemble cache workloads, sweeps, and experiment summaries"
+  default_prompt: "Use $cacheflow to assemble locality workloads, prepare a cache parameter sweep, and summarize the resulting CSV."
